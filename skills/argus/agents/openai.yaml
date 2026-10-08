@@ -1,0 +1,4 @@
+interface:
+  display_name: "Argus"
+  short_description: "Evidence-based reviews with specialist agents"
+  default_prompt: "Use $argus to review the changes in this repository."
