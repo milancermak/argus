@@ -1,5 +1,7 @@
 # Argus
 
+![Argus: a centered computer monitor surrounded by falling green eyes scanning for code problems](assets/argus-readme.png)
+
 Evidence-based code reviews for Codex. One skill coordinates five specialists:
 correctness, simplicity, performance, architecture, and external contracts.
 Findings are checked and reconciled into one report.
